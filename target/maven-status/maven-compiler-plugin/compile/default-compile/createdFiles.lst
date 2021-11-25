@@ -1,0 +1,6 @@
+reto1\service\UserService.class
+reto1\Reto1Application.class
+reto1\repository\crud\UserCrudRepository.class
+reto1\repository\UserRepository.class
+reto1\model\User.class
+reto1\controller\UserController.class
